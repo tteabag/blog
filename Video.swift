@@ -5,3 +5,7 @@ struct Video {
 func handle(video: Video) {
     print(video.length)
 }
+
+func fix() {
+    
+}
